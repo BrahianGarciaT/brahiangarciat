@@ -1,6 +1,6 @@
 # 👋 Hola! mi nombre es Brahian, encantado. :smile:
 
-Soy un Full Stack Developer colombiano.<br>
+Backend Developer colombiano.<br>
 Con cierta experiencia en automatización de procesos y administración de bases de datos.<br>
 Actualmente trabajo como desarrollador backend en Tres Astronautas.
 
