@@ -1,32 +1,24 @@
 # 👋 Hola! mi nombre es Brahian, encantado. :smile:
 
 Backend Developer colombiano.<br>
-Con cierta experiencia en automatización de procesos y administración de bases de datos.<br>
-Actualmente trabajo como desarrollador backend en Tres Astronautas.
+Con más de 4 años de experiencia diseñando y manteniendo APIs escalables con Node.js y NestJS. He liderado migraciones de servicios hacia arquitecturas modernas basadas en MongoDB y modelos multitenant SaaS. Responsable del backend completo de productos en producción, incluyendo soporte, resolución de incidencias e integración con sistemas externos (WMS). Enfocado en escalabilidad, mantenibilidad y mejora continua.
 
 ## Skills :technologist:
 
-| Front-End | Skill                                                            |
-|:----------|:----------------------------------------------------------------:|
-| Angular2+ |:full_moon: :full_moon: :full_moon: :last_quarter_moon: :new_moon:|
+Backend
+Node.js, NestJS, Express, JavaScript, TypeScript
 
-| Back-End | Skill                                                            |
-|:---------|:----------------------------------------------------------------:|
-| NodeJs   |:full_moon: :full_moon: :full_moon: :full_moon: :new_moon:        |
-| Python   |:full_moon: :full_moon: :last_quarter_moon: :new_moon: :new_moon: |
-| Java     |:full_moon: :full_moon: :new_moon: :new_moon: :new_moon:          |
+Bases de datos
+MongoDB, PostgreSQL
 
-| Databases            | Skill                                                            |
-|:---------------------|:----------------------------------------------------------------:|
-| MongoDB              |:full_moon: :full_moon: :full_moon: :full_moon: :new_moon:        |
-| Oracle Database      |:full_moon: :full_moon: :full_moon: :new_moon: :new_moon:         |
-| Microsoft SQL Server |:full_moon: :full_moon: :new_moon: :new_moon: :new_moon:          |
-| MySQL                |:full_moon: :full_moon: :new_moon: :new_moon: :new_moon:          |
+Cloud & DevOps
+Docker, Microsoft Azure, Google Cloud, SonarQ, Bash/Shell, Ansible
 
-| Operating Systems | Skill                                                            |
-|:------------------|:----------------------------------------------------------------:|
-| Linux             |:full_moon: :full_moon: :full_moon: :last_quarter_moon: :new_moon:|
-| Windows           |:full_moon: :full_moon: :full_moon: :new_moon: :new_moon:         |
+Testing
+Jest, Unit Testing
+
+Otros
+WMS Integrations, AI Integrations, Angular
 
 <!--
 **brahiangarciat/brahiangarciat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
