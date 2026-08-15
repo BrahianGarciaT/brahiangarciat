@@ -6,28 +6,28 @@ Con más de 4 años de experiencia diseñando y manteniendo APIs escalables con 
 
 ## Skills :technologist:
 
-**Backend**
+**Backend**<br>
 Node.js, NestJS, Express, JavaScript, TypeScript
 
-**Bases de datos**
+**Bases de datos**<br>
 MongoDB, PostgreSQL
 
-**Cloud & DevOps**
+**Cloud & DevOps**<br>
 Docker, Microsoft Azure, Azure DevOps, Google Cloud, SonarQube, Bash/Shell, Ansible, Python
 
-**Microservicios & Eventos**
+**Microservicios & Eventos**<br>
 Microservicios, Arquitectura orientada a eventos, Colas de mensajes, BullMQ, Redis
 
-**IA aplicada**
+**IA aplicada**<br>
 OpenAI API, Embeddings & Similitud Vectorial, Prompt Engineering
 
-**Herramientas de IA para desarrollo**
+**Herramientas de IA para desarrollo**<br>
 Cursor, Claude Code, Specification-Driven Development (SDD)
 
-**Testing**
+**Testing**<br>
 Jest, Unit Testing
 
-**Otros**
+**Otros**<br>
 WMS Integrations, Email APIs (SendGrid, Resend), Angular
 
 ## Experiencia :briefcase:
